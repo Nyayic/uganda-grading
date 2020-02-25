@@ -1,0 +1,22 @@
+{
+  "name": "uganda-grading",
+  "version": "1.0.0",
+  "description": "For CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nyayic/uganda-grading.git"
+  },
+  "author": "fanny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nyayic/uganda-grading/issues"
+  },
+  "homepage": "https://github.com/Nyayic/uganda-grading#readme",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
